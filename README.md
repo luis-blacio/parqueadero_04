@@ -21,4 +21,4 @@ Este sistema de gestión de parqueaderos está diseñado para administrar eficie
 
 # Metodologia Gitflow
 
-[)
+[https://github.com/luis-blacio/parqueadero_04/blob/af03ab4f3c58b96928ad63d8ae9f997187089d2e/Captura%20de%20Pantalla%202024-11-25%20a%20la(s)%2002.05.51.png)
