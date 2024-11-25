@@ -1,9 +1,9 @@
-public abstract class Vehiculo {
-    private String matricula;
-    private String modelo;
-    private String color;
+public abstract class vehiculo {
+    private final String matricula;
+    private final String modelo;
+    private final String color;
 
-    public Vehiculo(String matricula, String modelo, String color) {
+    public vehiculo(String matricula, String modelo, String color) {
         this.matricula = matricula;
         this.modelo = modelo;
         this.color = color;

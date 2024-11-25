@@ -1,8 +1,8 @@
-public class Cliente extends Persona {
+public class cliente extends persona {
     private boolean esRegular;
     private String metodoPago;
 
-    public Cliente(String nombre, String apellido, String identificacion, boolean esRegular, String metodoPago) {
+    public cliente(String nombre, String apellido, String identificacion, boolean esRegular, String metodoPago) {
         super(nombre, apellido, identificacion);
         this.esRegular = esRegular;
         this.metodoPago = metodoPago;
