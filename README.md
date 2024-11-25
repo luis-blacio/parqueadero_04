@@ -16,5 +16,9 @@
 
 [https://drive.google.com/file/d/1YGiSlTudYEGFCNLhu86wjXPTxP1Jzp3R/view?usp=sharing)
 
-#Descripccion del programa
+# Descripccion del programa
 Este sistema de gestión de parqueaderos está diseñado para administrar eficientemente las operaciones de un parqueadero con múltiples pisos y diferentes tipos de usuarios y vehículos.
+
+# Metodologia Gitflow
+
+[)
